@@ -28,7 +28,7 @@ mapper.sh. Para editar el archivo  <.sh >, se deberá utilizar el comando <nano>
 al editor de código nativo 
 de Linux.
 
-$ sudo nano mapper.sh 
+$ sudo nano mapper.sh <dirección IP de un host ó segmento de red >
 
 # Ejecución del script
 La ejecución el script se debe utilizar la notación < ./ > (punto-diagonal-slash), para que efectúe 
