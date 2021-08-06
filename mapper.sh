@@ -18,7 +18,7 @@ fi
 
 # Definir puertos a evaluar y opciones del escaneo
 opts="-T4 --open"
-pingopts="-sn -PS21-23,25,53,80,443,445,3389 -PO -PE -PM -PP"
+pingopts="-sn -PS21-23,25,53,80,443,445,3389,8333,9001 -PO -PE -PM -PP -PN"
 
 # Uso de funciones NMAP para detectar host activos
 echo "--------"
