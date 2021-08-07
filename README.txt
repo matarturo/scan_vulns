@@ -12,8 +12,8 @@ See LICENSE.TXT for details.
 Para correr este script se requiere ingresar al equipo con credenciales de usuario < root >
 
 $ cd /var/log
-$ sudo git clone https://github.com/matarturo/vulns_scan.git
-$ cd vulns_scan
+$ sudo git clone https://github.com/matarturo/scan_vulns.git
+$ cd scan_vulns
 $ sudo cp mapper.sh /var/log
 $ cd /var/log
 
