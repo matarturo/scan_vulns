@@ -1,4 +1,4 @@
-# Script: mapper.sh
+Script: mapper.sh
 Autor: Arturo Mata <arturo.mata@gmail.com>
 Version: 1.0.0
 Repositorio: https://github.com/matarturo/
