@@ -7,6 +7,11 @@ See LICENSE.TXT for details.
 
 # #Script escrito en lenguaje Python para detectar vulnerabilidades y recopilar datos del objetivo en importando funciones NMAP
 
+# Requisitos
+
+Nmap => apt install nmap
+Git => apt install git
+
 # Instalación
 
 Para correr este script se requiere ingresar al equipo con credenciales de usuario < root >
